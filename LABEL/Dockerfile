@@ -1,4 +1,4 @@
 FROM almalinux:9
-LABEL COURSE = "docker" \
-        trainer = "kranthi" \
-         author = "kranthidonadi@gmail.com"
+LABEL course="docker" \
+      trainer="sivakumar" \
+      author="kranthidonadi@gmail.com"
