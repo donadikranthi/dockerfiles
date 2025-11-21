@@ -1,5 +1,5 @@
 FROM almalinux:9    
- RUN dnf intall mgin -y
+ RUN dnf install nginx -y
  RUN useradd kranthi
 
     USER kranthi
