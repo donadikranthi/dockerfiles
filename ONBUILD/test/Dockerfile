@@ -1,2 +1,1 @@
-FROM onbuild:v1
-COPY ./index.html /usr/share/nginx/html/index.html
+FROM onbuild:v
