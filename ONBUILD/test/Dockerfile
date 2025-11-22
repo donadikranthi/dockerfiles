@@ -1,1 +1,0 @@
-FROM onbuild:almalinux:9
