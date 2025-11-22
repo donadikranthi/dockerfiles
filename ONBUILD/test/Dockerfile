@@ -1,1 +1,1 @@
-ONBUILD COPY onbuild:v1 dockerfiles/ONBUILD/test
+FROM onbuild:v1 dockerfiles/ONBUILD/test
